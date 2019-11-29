@@ -20,7 +20,7 @@ Place everything in this package in the root of your sd card. For example, if yo
 * Kirby
   * Blue Kirby with goggles added, replaced pink-green kirby
     * Purple Kirby now takes pink-green kirby's original spot to make more sense for team battles
-* Lenny face stones added for Kirby's down special
+  * Lenny face stones added for Kirby's down special
 
 * Menus
   * Austin P+ logo replaces original Project+ logo in the following areas:
