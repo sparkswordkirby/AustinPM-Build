@@ -19,7 +19,8 @@ Place everything in this package in the root of your sd card. For example, if yo
 #### Cosmetics added
 
 * **`Wolf`**
-  * Red and white wolf over red wolf
+  * Added Peppermint Wolf over red space wolf
+  * Added Grime Wolf over gold space wolf
 
 ### 1.01
 
