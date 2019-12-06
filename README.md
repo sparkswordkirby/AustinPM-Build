@@ -4,6 +4,7 @@ This is the costume/code back for the Austin P+ Build.
 
 * [Installation](#installation)
 * [Changelog](#changelog)
+  * [1.02](#102)
   * [1.01](#101)
   * [1.0](#10)
 
@@ -21,6 +22,9 @@ Place everything in this package in the root of your sd card. For example, if yo
 * **`Wolf`**
   * Added Peppermint Wolf over red space wolf
   * Added Grime Wolf over gold space wolf
+
+* **`Kirby`**
+  * Interesting costume over Z alt Kirby
 
 ### 1.01
 
