@@ -14,6 +14,13 @@ Place everything in this package in the root of your sd card. For example, if yo
 
 ## Changelog
 
+### 1.02
+
+#### Cosmetics added
+
+* **`Wolf`**
+  * Red and white wolf over red wolf
+
 ### 1.01
 
 #### Cosmetics added
