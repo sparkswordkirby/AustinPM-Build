@@ -22,9 +22,10 @@ Place everything in this package in the root of your sd card. For example, if yo
 * **`Wolf`**
   * Added Peppermint Wolf over red space wolf
   * Added Grime Wolf over gold space wolf
+  * Added interesting costume over Alt Z wolf
 
 * **`Kirby`**
-  * Interesting costume over Z alt Kirby
+  * Added Interesting costume over Z alt Kirby
 
 ### 1.01
 
